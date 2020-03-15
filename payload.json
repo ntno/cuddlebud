@@ -1,7 +1,10 @@
 {
   "embeds": [{
     "image": {
-      "url": "https://66.media.tumblr.com/416dae475f7aca49b79064641cfc2326/tumblr_nsb00ylNsL1tjxyqoo2_1280.jpg"
+      "url": "https://66.media.tumblr.com/520e46f17c03775199b5d7aabf92fb00/tumblr_nss8zwSKu51tow2mjo1_1280.jpg"
+    },
+    "footer":{
+      "text":"Wolf by Medusa Computer Creations"
     }
   }]
 }
