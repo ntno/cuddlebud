@@ -1,0 +1,6 @@
+version: "3"
+services:
+  build:
+    image: alpine:3.10.3
+    volumes:
+      - ./:/root
